@@ -1,0 +1,19 @@
+{
+    "name": "hmos9c/php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hmos9c\\PhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanasfebriyan",
+            "email": "sanasfebriyan8@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
